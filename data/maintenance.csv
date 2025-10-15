@@ -1,0 +1,4 @@
+date,vehicle,odometer,job,parts,cost,who,torque_notes,interval_miles,interval_months,next_due_miles,next_due_date
+2025-10-01,1985 F-150,124350,NP208 fluid change,ATF Dexron III x2,24.98,Self,"Drain 15-30 ft-lb, Fill 15-30 ft-lb",30000,36,154350,2028-10-01
+2025-10-05,1985 F-150,124600,Engine oil + filter,5qts 10W-40; FL-1A,32.49,Self,Drain 15-30 ft-lb; Filter 3/4 turn after contact,3000,3,127600,2026-01-05
+2025-10-10,1985 F-150,124800,Rear diff (8.8) fluid,75W-90 3qts; RTV,29.99,Self,Cover bolts 24 ft-lb; Fill plug 26 ft-lb,30000,36,154800,2028-10-10
